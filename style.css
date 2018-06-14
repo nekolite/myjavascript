@@ -1,0 +1,23 @@
+body {
+	background-color: #f1f2f6;
+	/* F2F2F2 */
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.heading {
+	padding: 25px;
+}
+
+img#image1 {
+	filter: opacity(0.7);
+}
+
+.parallax-container {
+	height: 500px;
+	filter: opacity(0.9);
+}
+
+.instagram:hover {
+	text-decoration: underline;
+	color: blue;
+}
